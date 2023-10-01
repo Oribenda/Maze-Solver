@@ -1,5 +1,8 @@
 # Maze Solver 
-![Maze Solver](readme_img/maze.gif)
+
+<img src="readme_img/maze.gif" alt="maze" loop="true" width="400" height="300" style="display:block; margin:auto;" >
+
+
 Maze Solver is a Java program that determines whether a maze is solvable or not using the Union-Find algorithm. This repository showcases my experience in algorithmic problem-solving and Java programming.
 
 ## Table of Contents
