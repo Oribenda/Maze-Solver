@@ -1,6 +1,6 @@
 # Maze Solver 
 
-<img src="readme_img/maze.gif" alt="maze" loop="true" width="400" height="300" style="display:block; margin:auto;" >
+<img src="readme_img/maze_loop.gif" alt="maze"  width="400" height="300" style="display:block; margin:auto;" loop="true" >
 
 
 Maze Solver is a Java program that determines whether a maze is solvable or not using the Union-Find algorithm. This repository showcases my experience in algorithmic problem-solving and Java programming.
@@ -56,7 +56,7 @@ The input maze images can be found in the "maze_images" folder:
 
 Let's explore a complex maze challenge! Below is an image of a maze:
 
-![Complex Maze](readme_img/hard_unsolvable.PNG)
+<img src="readme_img/hard_unsolvable.PNG" alt="hard_unsolvable"  width="400" height="300" style="display:block; margin:auto;" >
 
 ### Do You Think It Has a Solution?
 
@@ -66,7 +66,7 @@ Before running the program, take a look at the maze image above and consider whe
 
 After running the Maze Solver program on the complex maze, here's the output:
 
-![Complex Maze Result](readme_img/hard_output.PNG)
+<img src="readme_img/hard_output.PNG" alt="hard_output"  width="400" height="300" style="display:block; margin:auto;" >
 
 In this image, you can see the connected components of the maze. Each component is color-coded for clarity. As you can observe, the complex maze is not solvable, and the Union-Find algorithm has correctly identified the absence of a path from the start to the end.
 
